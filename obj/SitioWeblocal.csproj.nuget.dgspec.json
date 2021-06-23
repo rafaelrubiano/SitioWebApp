@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rafaelrubiano/Desktop/Platzi/CursoWebApp/SitioWeblocal/SitioWeblocal.csproj": {}
+    "/Users/rafaelrubiano/Desktop/Platzi/CursoWebApp/SitioWebApp/SitioWeblocal.csproj": {}
   },
   "projects": {
-    "/Users/rafaelrubiano/Desktop/Platzi/CursoWebApp/SitioWeblocal/SitioWeblocal.csproj": {
+    "/Users/rafaelrubiano/Desktop/Platzi/CursoWebApp/SitioWebApp/SitioWeblocal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rafaelrubiano/Desktop/Platzi/CursoWebApp/SitioWeblocal/SitioWeblocal.csproj",
+        "projectUniqueName": "/Users/rafaelrubiano/Desktop/Platzi/CursoWebApp/SitioWebApp/SitioWeblocal.csproj",
         "projectName": "SitioWeblocal",
-        "projectPath": "/Users/rafaelrubiano/Desktop/Platzi/CursoWebApp/SitioWeblocal/SitioWeblocal.csproj",
+        "projectPath": "/Users/rafaelrubiano/Desktop/Platzi/CursoWebApp/SitioWebApp/SitioWeblocal.csproj",
         "packagesPath": "/Users/rafaelrubiano/.nuget/packages/",
-        "outputPath": "/Users/rafaelrubiano/Desktop/Platzi/CursoWebApp/SitioWeblocal/obj/",
+        "outputPath": "/Users/rafaelrubiano/Desktop/Platzi/CursoWebApp/SitioWebApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rafaelrubiano/.nuget/NuGet/NuGet.Config"
